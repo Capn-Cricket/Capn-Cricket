@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Kirk 👋
+
+I'm a developer with a passion for aviation and building things.  For me writting code is one of the best ways to build things that can truely be useful.  Before finding code I built training programs at an airline and built and maintained sailboats.  I bring my varied experience into the code I write.  While not coding I enjoy boating, traveling, playing with my young son, and skateboarding.
 
 <!--
 **Capn-Cricket/Capn-Cricket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
