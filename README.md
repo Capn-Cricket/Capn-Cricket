@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mars Art: A Showcase of the Martian Surface**
 
-- 🌱 I’m currently learning **more about Node.JS and I'm always learning more about responsive web design.**
+- 🌱 I’m currently learning **more about Node.JS**
 
 - 🤝 I’m often looking for help with **design and layout. If you are a designer I'd love to connect.**
 
