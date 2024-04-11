@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Mars Art: A Showcase of the Martian Surface**
 
-- 🌱 I’m currently learning **more about Node.JS**
-
-- 🤝 I’m often looking for help with **design and layout. If you are a designer I'd love to connect.**
+- 🌱 I’m currently learning **more about backend programming with Node.JS**
+I'm also currently working on **custom WordPress Plugins**
+- 🤝 I’m often looking for **design inspiration**. If you are a designer I'd love to **connect.**
 
 - 👨‍💻 All of my projects are available at [www.esterenkodesign.com](www.esterenkodesign.com)
 
