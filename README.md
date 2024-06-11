@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mars Art: A Showcase of the Martian Surface**
 
-- 🌱 I’m currently curious **more about backend programming with Node.JS**. 
+- 🌱 I’m currently curious **about backend programming with Node.JS**. 
 I'm also currently working on **custom WordPress Plugins**
 - 🤝 I’m often looking for **design inspiration**. If you are a designer I'd love to **connect.**
 
