@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirk Esterline</h1>
 <h3 align="center">A creative developer from Cape Cod</h3>
 
-- 🔭 I’m currently working on **Mars Art: A Showcase of the Martian Surface**
+- 🔭 I’m proud of my work on **Mars Art: A Showcase of the Martian Surface**
 
 - 🌱 I’m currently improving my **backend programming with Node.JS and React** I am also curious about **Next.js**.
 - 🤝 I’m often looking for **design inspiration**. If you are a designer I'd love to **connect.**
