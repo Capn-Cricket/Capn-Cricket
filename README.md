@@ -3,7 +3,7 @@
 
 - 🔭 I’m proud of my work on **Mars Art: A Showcase of the Martian Surface**
 
-- 🌱 I’m currently improving my **backend programming with Node.JS and React** I am also curious about **Next.js**.
+- 🌱 I’m currently working on **Sail Keeper built with Next.js and React**.
 - 🤝 I’m often looking for **design inspiration**. If you are a designer I'd love to **connect.**
 
 - 👨‍💻 All of my projects are available at [www.esterenkodesign.com](www.esterenkodesign.com)
